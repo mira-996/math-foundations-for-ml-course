@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 order:
   - 1. Linear Algebra
+=======
+order:
+  - 1. Linear Algebra
+  - 2. Calculus
+>>>>>>> upstream/main
