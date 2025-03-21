@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+order:
+  - 1. Linear Algebra
+=======
 order:
   - 1. Linear Algebra
   - 2. Calculus
+<<<<<<< HEAD
   - 3. Probability and Statistics
+=======
+>>>>>>> upstream/main
+>>>>>>> b6675fb849a8f1df249a851f0ebb790eca565ac4
